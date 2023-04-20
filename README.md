@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+<img alt="" src=https://user-images.githubusercontent.com/1221423/156894097-ff2d6566-7b6a-4488-950e-f4ebe990965a.svg width=300 align=right>
 <!--
 **ZeCarlozc/ZeCarlozc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -40,7 +42,7 @@ Here are some ideas to get you started:
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeCarlozc&show_icons=true&theme=dark)
 -->
----
+
 
 ### My github stats  💯
 <br/>
